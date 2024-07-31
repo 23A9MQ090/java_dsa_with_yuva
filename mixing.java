@@ -124,6 +124,13 @@ public class mixing {
                 matrix[i][j]=sc.nextInt();
             }
         }
+        System.out.println("you entered these numbers : ");
+        for (int i = 0; i < size; i++) {
+          for (int j = 0; j < size1; j++) {
+              System.out.print(matrix[i][j]+" ");
+          }
+          System.out.println();
+      }
         System.out.println("Enter here a target : ");
         int target = sc.nextInt();
         int[] result = binary2d(matrix, target);
