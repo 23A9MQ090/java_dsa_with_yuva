@@ -1,8 +1,8 @@
 import java.util.*;
 public class QuickSort {
     public static void main(String[] args) {
-       System.out.println("******Thankyou coming for Quick Sort*******");
-        System.out.println("It is used tp select the pivot elemnts to select the sort ");
+     System.out.println("******Thankyou coming for Quick Sort*******");
+     System.out.println("It is used tp select the pivot elemnts to select the sort ");
       Scanner sc = new Scanner(System.in);
       System.out.println("Enter the array size : ");
       int size = sc.nextInt();
