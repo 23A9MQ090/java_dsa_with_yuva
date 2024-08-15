@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class mixing {
+public class Sortings {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("bittu nuvvu super ra");
