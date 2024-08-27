@@ -27,7 +27,7 @@ public class MergeSort {
 
     static int[] merge(int[] left, int[] right) {
         int[] mix = new int[left.length + right.length];
-        int i = 0;
+        int i = 1;
         int j = 0;
         int k = 0;
 
